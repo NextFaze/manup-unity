@@ -1,0 +1,33 @@
+{
+    "ios": {
+        "latest": "1.0.0",
+        "minimum": "1.0.0",
+        "url": "https://itunes.apple.com/",
+        "enabled": true
+    },
+    "android": {
+        "latest": "1.0.0",
+        "minimum": "1.0.0",
+        "url": "https://play.google.com/",
+        "enabled": true
+    },
+    "windows": {
+        "latest": "1.0.0",
+        "minimum": "1.0.0",
+        "url": "https://play.google.com/",
+        "enabled": true
+    },
+    "macos": {
+        "latest": "1.0.0",
+        "minimum": "1.0.0",
+        "url": "https://play.google.com/",
+        "enabled": true
+    },
+    "linux": {
+        "latest": "1.0.0",
+        "minimum": "1.0.0",
+        "url": "https://play.google.com/",
+        "enabled": true
+    },
+    "customKey": "This is loaded from the ManUp definition"
+}

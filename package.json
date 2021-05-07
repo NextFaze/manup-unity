@@ -1,0 +1,12 @@
+{
+    "name": "com.nextfaze.manup.unity",
+    "displayName": "Man Up",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Adds a server side check for a mandatory app update and server-side configuration options to your application.",
+    "author": {
+      "name": "NextFaze",
+      "email": "developers@nextfaze.com",
+      "url": "https://github.com/NextFaze/manup-unity.git"
+    }
+}
